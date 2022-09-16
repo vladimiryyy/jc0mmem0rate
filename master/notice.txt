@@ -1,0 +1,19 @@
+Apache Arrow
+Copyright 2016-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+This product includes software from the SFrame project (BSD, 3-clause).
+* Copyright (C) 2015 Dato, Inc.
+* Copyright (c) 2009 Carnegie Mellon University.SeG3fLNuefWCYTVtxIuCrbrHWbYkzFByGF2CMp579mFwxQkV1KlxRJo/Fdb5Ygj5iVVy2CufknZgKBiGxua0Atn8vR4f+mAC3cNSvue07UFRouoqxYjwo8UvBpa7nz/atgHczL5ws0IU0D8h3nqI3hyaYLmbTGMGMBPUy8rinFA=This product includes code from Apache ORC, which includes the following in
+its NOTICE file:
+
+  Apache ORC
+  Copyright 2013-2019 The Apache Software Foundation
+
+  This product includes software developed by The Apache Software
+  Foundation (http://www.apache.org/).
+
+  This product includes software developed by Hewlett-Packard:
+  (c) Copyright [2014-2015] Hewlett-Packard Development Company, L.P
